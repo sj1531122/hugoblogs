@@ -10,7 +10,7 @@ image: image.png
 - 域名：之前购买的
 - 博客程序：hugo
 - 博客主题：hugo-theme-stack
-- 静态页面托管地：cloudflare Pages
+- 静态页面托管地：github+cloudflare Pages
 - 评论：cusdis
 
 
