@@ -1,11 +1,11 @@
 ---
-title: 本博客的搭建方式
+title: 博客所使用的组件
 description: 博客的搭建方式
 date: 2023-09-03 00:00:00+0000
-image: 2.jpg
+image: image.png
 ---
 
-# 搭建所用组件
+# 博客所使用的组件
 
 - 域名：之前购买的
 - 博客程序：hugo
@@ -14,4 +14,4 @@ image: 2.jpg
 - 评论：cusdis
 
 
-![Image 1](image.png)
+![无限可能](image.png)
